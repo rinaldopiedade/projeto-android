@@ -45,7 +45,7 @@ main {background-color: white; min-width: 300px; max-width: 1000px; margin-botto
 main p {margin: 15px 5px; text-align: justify;
 text-indent: 30px; line-height: 2em; font-family: var(--font-padrao);}
 
-main img {max-width:100%; margin:auto; padding:20px;}
+main img {width:100%; margin:auto; display: block;}
 
 main img.pequena {max-width:350px; display:block; margin:auto;} 
 
